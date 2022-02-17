@@ -1,0 +1,15 @@
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\bin\Debug\net6.0\visual1lab.exe
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\bin\Debug\net6.0\visual1lab.deps.json
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\bin\Debug\net6.0\visual1lab.runtimeconfig.json
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\bin\Debug\net6.0\visual1lab.dll
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\bin\Debug\net6.0\ref\visual1lab.dll
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\bin\Debug\net6.0\visual1lab.pdb
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.csproj.AssemblyReference.cache
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.AssemblyInfoInputs.cache
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.AssemblyInfo.cs
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.csproj.CoreCompileInputs.cache
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.dll
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\ref\visual1lab.dll
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.pdb
+C:\Users\79642\Documents\GitHub\visual_lab1\visual1lab\obj\Debug\net6.0\visual1lab.genruntimeconfig.cache

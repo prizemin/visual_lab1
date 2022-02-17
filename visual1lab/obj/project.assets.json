@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79642\\source\\repos\\visual1lab\\visual1lab\\visual1lab.csproj",
+      "projectUniqueName": "C:\\Users\\79642\\Documents\\GitHub\\visual_lab1\\visual1lab\\visual1lab.csproj",
       "projectName": "visual1lab",
-      "projectPath": "C:\\Users\\79642\\source\\repos\\visual1lab\\visual1lab\\visual1lab.csproj",
+      "projectPath": "C:\\Users\\79642\\Documents\\GitHub\\visual_lab1\\visual1lab\\visual1lab.csproj",
       "packagesPath": "C:\\Users\\79642\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79642\\source\\repos\\visual1lab\\visual1lab\\obj\\",
+      "outputPath": "C:\\Users\\79642\\Documents\\GitHub\\visual_lab1\\visual1lab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
