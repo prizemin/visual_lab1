@@ -4,11 +4,11 @@ class Programm
 {
     static void Main()
     {
-        int[] queue1 = { 5, 3, 4 };
+        int[] queue1 = { 6, 4, 5 };
         int registers1 = 1;
-        int[] queue2 = { 10, 2, 3, 3 };
+        int[] queue2 = { 11, 2, 3, 3 };
         int registers2 = 2;
-        int[] queue3 = { 2, 3, 10 };
+        int[] queue3 = { 1, 2, 11 };
         int registers3 = 2;
 
         Console.WriteLine(HW1.QueueTime(queue1, registers1));
